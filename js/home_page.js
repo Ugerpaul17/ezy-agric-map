@@ -5,3 +5,4 @@ function MyName(){
 }
 
 MyName();
+console.log(Testing);
